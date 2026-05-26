@@ -16,9 +16,8 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurReisBS&show_icons=true&theme=dark" height="150" alt="stats chart" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArthurReisBS&layout=compact&theme=dark" height="150" alt="languages chart" />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arthur%20Reis%20B.%20S.&theme=shadow-red&border_radius=16.3&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </p>
 
 ## 🔗 Connect with me
