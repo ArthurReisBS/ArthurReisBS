@@ -1,6 +1,7 @@
-# Hi, I'm Arthur Reis B. S.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21234fc,100:6a1234&height=200&section=header&text=Arthur%20Reis&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=51&descAlign=50"/>
+</p>
 
-### |-| Computer Science Student |-|
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -24,3 +25,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-reis-4a0253310/)
 <a href = "mailto:arthurreisbatsil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21234fc,100:6a1234&height=120&section=footer"/>
+</p>
